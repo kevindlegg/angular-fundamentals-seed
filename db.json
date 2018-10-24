@@ -5,49 +5,35 @@
       "fullname": "Stephen",
       "checkedIn": true,
       "checkedInDate": 149742000000,
-      "children": null
+      "baggage": ""
     },
     {
       "id": 2,
       "fullname": "Bobbi Legg",
       "checkedIn": false,
       "checkedInDate": null,
-      "children": [
-        {
-          "name": "Chloe",
-          "age": 7
-        }
-      ]
+      "baggage": ""
     },
     {
       "id": 3,
       "fullname": "Shelbi",
       "checkedIn": true,
       "checkedInDate": 148742000000,
-      "children": null
+      "baggage": ""
     },
     {
       "id": 4,
       "fullname": "Tucker",
       "checkedIn": true,
       "checkedInDate": 146742000000,
-      "children": null
+      "baggage": ""
     },
     {
       "id": 5,
       "fullname": "Kevin",
       "checkedIn": false,
       "checkedInDate": null,
-      "children": [
-        {
-          "name": "Tucker",
-          "age": 21
-        },
-        {
-          "name": "Shelbi",
-          "age": 24
-        }
-      ]
+      "baggage": ""
     }
   ]
 }
