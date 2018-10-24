@@ -1,10 +1,10 @@
 {
   "passengers": [
     {
-      "fullname": "Stephen",
+      "fullname": "Stephen King",
       "id": 1,
       "checkedIn": true,
-      "baggage": "hand-hold"
+      "baggage": "none"
     },
     {
       "id": 2,
